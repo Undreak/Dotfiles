@@ -1,0 +1,47 @@
+
+! Commented lines start with '!'
+
+! Import colorscheme first
+!#include ".Xresources.d/themes/"
+
+!#include ".Xresources.d/themes/cmyk"
+!#include ".Xresources.d/themes/donut"
+#include ".Xresources.d/themes/kiss_shot"
+!#include ".Xresources.d/themes/senjou"
+!#include ".Xresources.d/themes/sky"
+!#include ".Xresources.d/themes/sunsetcity"
+
+! Some font rendering fixings
+Xft.dpi:        96
+Xft.rgba:       rgb
+Xft.antialias:  true
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+
+! Import term and rofi configs last
+#include ".Xresources.d/urxvt"
+#include ".Xresources.d/rofi"
+
+URxvt*fading: 30
+
+URxvt.depth: 32
+URxvt.background: [95]#000000
+
+URxvt*inheritPixmap: true
+URxvt*transparent: true
+! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
+URxvt*shading: 20
+
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+
+URxvt.iso14755: False
+
+URxvt.perl-ext-common: default,clipboard
