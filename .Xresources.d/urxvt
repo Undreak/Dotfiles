@@ -1,0 +1,24 @@
+! urxvt config
+
+! Default term options
+
+! termbg and termfg defined in each theme
+urxvt*background: termbg
+urxvt*foreground: termfg
+
+urxvt*font: xft:Hack:size=10
+!urxvt*font: --Hack-----------iso8859-
+urxvt*url-launcher: firefox
+urxvt*internalBorder: 20
+urxvt*cursorBlink: 1
+URxvt.letterSpace: -1
+
+! Transparency
+!
+!urxvt*transparent: false
+!urxvt*shading: 14
+
+! Scrollbar
+!
+urxvt*scrollBar: false
+!urxvt*scrollColor: #4d5265
