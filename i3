@@ -1,1 +1,0 @@
-/home/alexandre/.config/i3
