@@ -30,7 +30,7 @@ set $mod Mod1
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec urxvt -blr 5
+bindsym $mod+Return exec urxvt -blr 20
 
 # kill focused window
 bindsym $mod+q kill
