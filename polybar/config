@@ -50,8 +50,8 @@ font-4 = monapo:pixelsize=10
 locale = fr_FR.UTF-8
 
 modules-left = i3 xwindow
-modules-center = date
-modules-right = mpd volume netstat xkeyboard scrot  memory cpu wlan powermenu
+modules-center = mpd
+modules-right = volume netstat xkeyboard scrot  memory cpu wlan date powermenu
 
 #tray-position = right
 #tray-padding = 2
