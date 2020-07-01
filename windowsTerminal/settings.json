@@ -30,7 +30,7 @@
             // Put settings here that you want to apply to all profiles.
             	"fontFace": "Cascadia Code PL",
             	"hidden": false,
-            	"colorScheme" : "cyberpunk",
+            	"colorScheme" : "One Half Dark",
             	"useAcrylic": true,
             	"acrylicOpacity": 0.8,
             	"experimental.retroTerminalEffect": false
