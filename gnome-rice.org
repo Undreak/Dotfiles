@@ -24,7 +24,7 @@
 **** mettre l'achive décompressé dedans
 **** recharger gnome-tweaks pour faire apparaitre les changement
 ** shell: défaut
-** fond d'écran: https://i.warosu.org/data/g/img/0741/66/1577653392015.png
+** fond d'écran: https://raw.githubusercontent.com/Undreak/Dotfiles/master/1577653392015.png
 ** extensions:
 *** dash-to-dock
 **** source: https://extensions.gnome.org/extension/307/dash-to-dock/
