@@ -50,3 +50,12 @@
 *** installer le plugin flatpak: ~apt install gnome-software-plugin-flatpak~
 *** ajouter le dépôt flathub: ~flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo~
 *** redémarrer le système
+
+* UPDATE
+* Thème
+source: https://github.com/vinceliuice/Orchis-theme
+
+* LightDM
+Mettre les themes de .themes dans /usr/share/themes
+idem pour les icones .icons dans /usr/share/icons
+utiliser LightDM GTK+ Greeter pour l'éditer (GUI)
