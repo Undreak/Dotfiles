@@ -53,9 +53,9 @@
 
 * UPDATE
 * Thème
-source: https://github.com/vinceliuice/Orchis-theme
+** source: https://github.com/vinceliuice/Orchis-theme
 
 * LightDM
-Mettre les themes de .themes dans /usr/share/themes
-idem pour les icones .icons dans /usr/share/icons
-utiliser LightDM GTK+ Greeter pour l'éditer (GUI)
+** Mettre les themes de .themes dans /usr/share/themes
+** idem pour les icones .icons dans /usr/share/icons
+** utiliser LightDM GTK+ Greeter pour l'éditer (GUI)
